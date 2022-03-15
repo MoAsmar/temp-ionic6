@@ -1,0 +1,7 @@
+{
+  "name": "temp-ionic6",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
